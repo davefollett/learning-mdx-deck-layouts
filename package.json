@@ -1,0 +1,15 @@
+{
+  "name": "learning-mdx-deck-layouts",
+  "version": "1.0.0",
+  "description": "Learning MDX Deck: Layouts",
+  "scripts": {
+    "start": "mdx-deck deck.mdx",
+    "build": "mdx-deck build deck.mdx",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Dave Follett",
+  "license": "MIT",
+  "devDependencies": {
+    "mdx-deck": "^2.3.2"
+  }
+}
