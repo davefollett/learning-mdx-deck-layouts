@@ -10,6 +10,6 @@
   "author": "Dave Follett",
   "license": "MIT",
   "devDependencies": {
-    "mdx-deck": "^2.3.2"
+    "mdx-deck": "^2.5.0"
   }
 }
